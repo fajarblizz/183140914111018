@@ -1,4 +1,4 @@
-<template>
+<templat
  <div class="container">
    <form  class="text-center" style="margin-top: 5%">
    <h1 class="text-center">Pertambahan</h1>
